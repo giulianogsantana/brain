@@ -9,7 +9,8 @@ atualizado: 2026-11-07
 | Ferramenta | Uso |
 |---|---|
 | Google Drive / Sheets / Slides | Planejamento, contratos, planilhas de receita, apresentações executivas. Pede edição direta de slides. |
-| Gmail | Consultar trocas de e-mail e anexos; redigir respostas (ex.: Esper + Betha + Octo). |
+| Google Agenda | Conta profissional conectada ao Claude (nov/2026). |
+| Gmail | Conta profissional conectada ao Claude (nov/2026). Consultar trocas de e-mail e anexos; redigir respostas (ex.: Esper + Betha + Octo). |
 | tl;dv | Gravações e transcrições de reuniões; base para respostas a parceiros. Conectado também no Claude. |
 | Plaud | Gravação/transcrição de reuniões presenciais (ex.: reunião G5). |
 | LinkedIn | Abordagem profissional, minibio, prospecção. |

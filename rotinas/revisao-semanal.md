@@ -5,6 +5,10 @@ atualizado: 2026-11-07
 ---
 # Revisão semanal (sexta, 30 min)
 
+**Automatizada desde 2026-11-07**: tarefa agendada no Claude, toda sexta às 16h38 (horário de Brasília). Fontes: inbox, tl;dv, Google Agenda, Gmail e Drive da conta profissional, todos em modo somente leitura. Resultado: commit "Revisão semanal AAAA-MM-DD" e resumo por notificação. Ela não envia e-mails, não mexe na agenda nem no Drive e não escreve em `privado/`.
+
+Para rodar manualmente, use o prompt abaixo:
+
 Prompt para o Claude ou ChatGPT com acesso ao brain:
 
 > Faça a revisão semanal do meu brain:
