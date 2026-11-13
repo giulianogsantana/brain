@@ -4,7 +4,7 @@ title: SADI / SEDUC-AM
 aliases: [SADI, SEDUC]
 tags: [parceiro, contrato, AM]
 status: ativo
-atualizado: 2026-11-07
+atualizado: 2026-11-13
 ---
 # SADI / SEDUC-AM
 Projeto educacional contratado pela [[seduc-am]] com execução pela [[sadi]]: implantação nas escolas, aceite, faturamento e repasse.
@@ -23,3 +23,9 @@ Projeto educacional contratado pela [[seduc-am]] com execução pela [[sadi]]: i
 ## Fontes
 - [[chatgpt-2026-07-02-sadi-seduc]] (88 mensagens), [[chatgpt-2026-06-22-ecossitema-octo-modelagem-de-canais]]
 - Arquivos: TERMO DE CONTRATO 09_2026, SEDUC-AM EDITAL, 7º TA 12_2024, Cronograma_Executivo_Previsao_Recebimentos_SADI_SEDUC_AM_REVISADO, Ata Grupo Anexo 06.03.2026
+
+## Atualização 13/11/2026
+- 11/11: [[wister-alves]] pediu retirar ou alterar a cláusula de não concorrência (novos representantes comerciais com mesmos CNAEs da Betha). 12/11: Giuliano respondeu que **não retira a cláusula**, aceita ajustar a redação, prefere critérios objetivos a lista fechada e avalia caso a caso (cita §3º da Cláusula 25ª).
+- 12/11: [[talita-frederico]] informou fim da implantação: passa a faturar **só o recorrente**, com evidências mensais de operação (escolas atendidas) até o dia 5 ou 10.
+- 13/11: Wister pergunta se o faturamento de novembro segue o modelo antigo ou novo. **Sem resposta.**
+- 06/11: MRKT-596 (revisão do Manual SADI SEDUC) com comentário de andamento.

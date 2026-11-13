@@ -5,7 +5,7 @@ aliases: [Wellington, CEO]
 tags: [betha, diretoria]
 organizacao: "[[betha-sistemas]]"
 cargo: CEO
-atualizado: 2026-11-07
+atualizado: 2026-11-13
 ---
 # Wellington Biagio
 CEO da [[betha-sistemas]]; o Giuliano reporta diretamente a ele. Chegou como "novo CEO" e criou a Gerência de Canais.
@@ -23,3 +23,8 @@ CEO da [[betha-sistemas]]; o Giuliano reporta diretamente a ele. Chegou como "no
 ## Em andamento
 - Avaliando pleito de +3 consultores de desenvolvimento de revendas, depois vai ao conselho ([[estrutura-equipe-canais-2027]]).
 - Recebe os planos de receita e orçamento 2027 ([[planejamento-canais-2027]]).
+
+## Atualização 13/11/2026
+- 13/11: diretrizes para o novo contrato de revendas (margem 45%, índices de desempenho, saúde financeira semestral, Betha como fabricante). Ver [[revisoes-contratuais]].
+- 13/11: análise financeira das revendas no credenciamento e recredenciamento a partir de jan/2027.
+- Deve localizar as atas do conselho sobre a dívida da Staff ([[2026-11-11-betha-staf]]).
